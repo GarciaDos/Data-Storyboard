@@ -1,2 +1,2 @@
-# DataStory
+# Data Storytell
  Data storytelling with streamlit
